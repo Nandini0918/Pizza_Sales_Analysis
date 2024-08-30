@@ -1,7 +1,7 @@
 # Pizza_Sales_Analysis
 This is my first sql project on pizza sales analysis done using MySql DBMS. The dataset consists of 4 files and around 48,000 rows of data.
 #### About the dataset
-You can find the dataset in pizza_sales.zip file in this repository. The dataset consists of 4 files called pizzas, pizza_types, orders & order_details. 
+You can find the dataset in pizza_sales.zip file in this repository. The dataset consists of 4 files called pizzas, pizza_types, orders & order_details.
 a) ‘pizzas’ contains columns called pizza_id, pizza_type_id, size & price.
 b) ‘pizza_types’ contains columns called pizza_type_id, name, category & ingredients.
 c) ‘orders’ contains columns called order_id, order_date & order_time.
